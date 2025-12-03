@@ -95,7 +95,7 @@ https://github.com/21ows1/cisc121_final_project/tree/main
 
 -----------------------------------------------------------
 ## AI Assistance Statement
-#####I used CHATGPT to help with brainstorming ideas, debugging, and wording parts of this README. I made sure to review all final code and explanations prior to my final project submission.
+##### I used CHATGPT to help with brainstorming ideas, debugging, and wording parts of this README. I made sure to review all final code and explanations prior to my final project submission.
 -----------------------------------------------------------
 ## Author & Acknowledgment
 
