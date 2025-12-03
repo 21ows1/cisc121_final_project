@@ -66,17 +66,20 @@ List: 1, 13, 25, 21, 15, 36, 14, 2, 32, 47
 Target: 13
 Expected: 1
 Result: 1
+
 ### Test 2
 
 List: 47, 19, 42, 31, 48, 33, 23, 45, 10, 22
-Target: 23
-Expected: 6Result: 6
+Target: 5
+Expected:  5 was not found (returned -1).
+Result:  5 was not found (returned -1).
 
 ### Test 3
-List: 1, 2, 3, 4, 10, 9, 8, 7
+
+List: afdasdsfdd
 Target: 7
-Expected: 7
-Result: 7
+Expected: Please enter a comma-separated list of integers, e.g. 3, 1, 4, 1, 5
+Result: Please enter a comma-separated list of integers, e.g. 3, 1, 4, 1, 5
 
 -----------------------------------------------------------
 
@@ -96,4 +99,5 @@ https://github.com/21ows1/cisc121_final_project/tree/main
 ## Author & Acknowledgment
 
 Owen Sheppard
+
 Acknowledgment to CISC-121 course guidelines.
