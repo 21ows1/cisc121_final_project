@@ -49,25 +49,25 @@ def search_interface(list_str: str, target_str: str):
 
     index, steps = linear_search(numbers, target)
 
-    # Tell the user what the result was!
+# Tell the user what the result was!
     if index != -1:
-        result_text = f"🎉 Found {target} at index {index}!"
+        result_text = f"🎆 Found {target} at index {index}!"
     else:
         result_text = f"❌ {target} was not found (returned -1)."
 
     steps_text = "\n".join(steps)
 
-    # Visualize where the target was found using matplotlib
+# Visualize where the target was found using matplotlib
     fig, ax = plt.subplots()
 
-    # Set the bar graph colours
+# Set the bar graph colours
     colors = ["skyblue"] * len(numbers)
 
-    # Highlight the specific index which the target was found at
+# Highlight the specific index which the target was found at
     if index != -1:
         colors[index] = "limegreen"
 
-    # Draw the bars with custom colors
+# Draw the bars with custom colors
     ax.bar(range(len(numbers)), numbers, color=colors)
 
     ax.set_xlabel("Index")
