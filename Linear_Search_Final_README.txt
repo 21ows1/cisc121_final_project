@@ -7,14 +7,10 @@ found (or -1),
 a step-by-step explanation, and a bar chart visualization. The interface is built using Gradio and
 deployed on Hugging Face Spaces.
 
-
-
-
 -----------------------------------------------------------
 
 ## Screenshots
 
-(Insert images in your actual README.md using Markdown)
 
 -----------------------------------------------------------
 
@@ -39,6 +35,7 @@ check → compare → move to next index.
 ### 4. Algorithm Design- Input: List + target.
 - Processing: Sequential comparison.
 - Output: Index or -1, steps, and a visualization.
+
 -----------------------------------------------------------
 
 ## Algorithm Implementation
@@ -74,6 +71,7 @@ List: 1, 2, 3, 4, 10, 9, 8, 7
 Target: 7
 Expected: 7
 Result: 7
+
 -----------------------------------------------------------
 
 ## Steps to Run Locally
