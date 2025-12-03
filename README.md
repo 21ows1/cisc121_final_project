@@ -79,7 +79,7 @@ Result:  5 was not found (returned -1).
 List: afdasdsfdd
 Target: 7
 Expected: Please enter a comma-separated list of integers, e.g. 3, 1, 4, 1, 5
-Result: Please enter a comma-separated list of integers, e.g. 3, 1, 4, 1, 5
+Result: Please enter a comma-separated list of integers, e.g. 3, 1, 4, 1, 5 
 
 -----------------------------------------------------------
 
@@ -90,14 +90,12 @@ Visit hugging face webiste at the link attached below
 
 ## Hugging Face Link
 https://huggingface.co/spaces/OwenSheppard/linear-search-cisc121-finalproject
-
 ## GitHub Repository
 https://github.com/21ows1/cisc121_final_project/tree/main
 
 -----------------------------------------------------------
 ## AI Assistance Statement
-I used AI tools CHATGPT to help with brainstorming ideas, debugging, and wording parts of this README. 
-I made sure to review all final code and expalantions prior to my final project submission.
+I used CHATGPT to help with brainstorming ideas, debugging, and wording parts of this README. I made sure to review all final code and explanations prior to my final project submission.
 -----------------------------------------------------------
 ## Author & Acknowledgment
 
