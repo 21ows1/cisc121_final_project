@@ -9,13 +9,13 @@ deployed on Hugging Face Spaces.
 
 ## Screenshots
 
-###User Interface
+### User Interface
 ![Main UI](Screenshots_CISC121_FinalProject/UI_Demo.png)
 
-###Successful Example
+### Successful Example
 ![Successful Example](Screenshots_CISC121_FinalProject/Successful_Example1.png)
 
-###Demonstration of Visualization
+### Demonstration of Visualization
 ![Visualization](Screenshots_CISC121_FinalProject/Successful_Example1_Visualization.png)
 
 -----------------------------------------------------------
@@ -95,7 +95,10 @@ https://huggingface.co/spaces/OwenSheppard/linear-search-cisc121-finalproject
 https://github.com/21ows1/cisc121_final_project/tree/main
 
 -----------------------------------------------------------
-
+## AI Assistance Statement
+I used AI tools CHATGPT to help with brainstorming ideas, debugging, and wording parts of this README. 
+I made sure to review all final code and expalantions prior to my final project submission.
+-----------------------------------------------------------
 ## Author & Acknowledgment
 
 Owen Sheppard
