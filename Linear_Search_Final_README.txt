@@ -1,16 +1,22 @@
 # Linear Search — CISC121 Final Project
 
 This project is a simple web application designed to demonstrate how the Linear Search algorithm
-works.
-Users can enter a list of numbers and a target value. The app displays the index where the target was
-found (or -1),
-a step-by-step explanation, and a bar chart visualization. The interface is built using Gradio and
+works. Users can enter a list of numbers and a target value. The app displays the index where the target was
+found (or -1), a step-by-step explanation, and a bar chart visualization. The interface is built using Gradio and
 deployed on Hugging Face Spaces.
 
 -----------------------------------------------------------
 
 ## Screenshots
 
+###User Interface
+![Main UI](Screenshots_CISC121_FinalProject/UI_Demo.png)
+
+###Successful Example
+![Successful Example](Screenshots_CISC121_FinalProject/Successful_Example1.png)
+
+###Demonstration of Visualization
+![Visualization](Screenshots_CISC121_FinalProject/Successful_Example1_Visualization.png)
 
 -----------------------------------------------------------
 
@@ -74,17 +80,16 @@ Result: 7
 
 -----------------------------------------------------------
 
-## Steps to Run Locally
-1. pip install -r requirements.txt
-2. python app.py
-3. Open the Gradio link in your browser.
+## Steps to Run 
+Visit hugging face webiste at the link attached below
 
 -----------------------------------------------------------
 
 ## Hugging Face Link
-(Add your live app link here)
+https://huggingface.co/spaces/OwenSheppard/linear-search-cisc121-finalproject
+
 ## GitHub Repository
-(Add your GitHub repo link here)
+https://github.com/21ows1/cisc121_final_project/tree/main
 
 -----------------------------------------------------------
 
